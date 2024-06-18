@@ -32,7 +32,7 @@ function App() {
 
   return (
     <>
-      <div className=' items-center flex flex-col pt-10 bg-zinc-100 h-screen'>
+      <div className=' items-center flex flex-col pt-10 bg-zinc-300 h-screen'>
         <div className="w-full  text-center">
           <h1 className='text-3xl font-bold font-["Monotype_Corsiva"]'>Password Generator</h1>
           <div className=" relative w-full">
